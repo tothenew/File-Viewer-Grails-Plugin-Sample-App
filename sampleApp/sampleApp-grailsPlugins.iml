@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="GrailsWeb">
+      <configuration>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/file-viewer-0.1/web-app" relative="/" />
+          <root url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/jquery-1.4.2.5/web-app" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/file-viewer-0.1">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/file-viewer-0.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/file-viewer-0.1/grails-app/controllers" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/jquery-1.4.2.5">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/jquery-1.4.2.5/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/jquery-1.4.2.5/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/jquery-1.4.2.5/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/tomcat-1.3.3">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/tomcat-1.3.3/src/groovy" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="grails-1.3.3" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/tomcat-1.3.3/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../../.grails/1.3.3/projects/sampleApp/plugins/tomcat-1.3.3/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
